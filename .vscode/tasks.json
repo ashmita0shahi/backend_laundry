@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Admin Dashboard",
+			"type": "shell",
+			"command": "cd admin-dashboard && npm start",
+			"group": "none",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
